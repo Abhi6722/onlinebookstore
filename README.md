@@ -2,7 +2,7 @@
 ![onlinebookstore](https://user-images.githubusercontent.com/34605595/137615096-8447d32d-bddc-4f13-a8ed-3c0f4dd5e04e.png)
 #### To View First Front Page Design of this website <a href="https://shashirajraja.github.io/onlinebookstore/WebContent/index.html" target="_blank">Click Here</a><br>
 <span style="color:blue">**This Website is built for following purpose:-**</span>
-- For Selling books online.
+- For Selling books online and for fun.
 - Maintaining books selling history.
 - Adding and managing books.
 - User Friendly.
